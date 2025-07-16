@@ -1,0 +1,3 @@
+.\phishing-env\Scripts\activate
+
+python phishing_server.py
