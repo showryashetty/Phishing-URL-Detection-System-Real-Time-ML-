@@ -37,8 +37,8 @@ print(f"🎯 ML Model Accuracy: {accuracy * 100:.2f}%")
 
 # --------- Email Alert ---------
 def send_email(url, ml_result, dns, http, form, ssl_info, whois_info):
-    sender = "showryashetty20112004@gmail.com"
-    password = "umlyhniffcvkthbl"  # Gmail App Password
+    sender = "your mail"
+    password = "pass"  # Gmail App Password
     to = sender
 
     body = f"""🔍 ANALYSIS REPORT
